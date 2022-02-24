@@ -1,8 +1,6 @@
 # WIL (What I Learned)
 
-## :sunglasses: Daeun's WIL
-
-<br/>
+### :sunglasses: Daeun's WIL
 
 ### 1. Next.js
 
